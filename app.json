@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "EnergySA2000App",
+    "slug": "energysa2000app",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["android"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.yourname.energysa2000app",
+      "versionCode": 1
+    }
+  }
+}
